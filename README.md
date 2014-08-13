@@ -1,3 +1,4 @@
+TEST
 ## Parsedown
 
 Better [Markdown](http://en.wikipedia.org/wiki/Markdown) parser for PHP.
